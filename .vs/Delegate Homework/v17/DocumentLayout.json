@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|solutionrelative:delegate homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|c:\\users\\mursa\\source\\repos\\delegate homework\\delegate homework\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|solutionrelative:delegate homework\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|c:\\users\\mursa\\source\\repos\\delegate homework\\delegate homework\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|solutionrelative:delegate homework\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "Delegate Homework\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\ReportGenerator.cs",
+              "RelativeToolTip": "Delegate Homework\\ReportGenerator.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:37:19.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CarService.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\CarService.cs",
               "RelativeDocumentMoniker": "Delegate Homework\\CarService.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "Delegate Homework\\CarService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T05:41:50.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T05:41:50.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PushNotificationService.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\PushNotificationService.cs",
               "RelativeDocumentMoniker": "Delegate Homework\\PushNotificationService.cs",
@@ -59,12 +75,11 @@
               "RelativeToolTip": "Delegate Homework\\PushNotificationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T20:54:41.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T20:54:41.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SMSService.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\SMSService.cs",
               "RelativeDocumentMoniker": "Delegate Homework\\SMSService.cs",
@@ -76,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\EmailService.cs",
               "RelativeDocumentMoniker": "Delegate Homework\\EmailService.cs",
@@ -88,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Notifier.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\Notifier.cs",
               "RelativeDocumentMoniker": "Delegate Homework\\Notifier.cs",
@@ -96,8 +111,7 @@
               "RelativeToolTip": "Delegate Homework\\Notifier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T20:18:49.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T20:18:49.603Z"
             },
             {
               "$type": "Document",
@@ -107,7 +121,7 @@
               "RelativeDocumentMoniker": "Delegate Homework\\Program.cs",
               "ToolTip": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\Program.cs",
               "RelativeToolTip": "Delegate Homework\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T20:02:33.14Z",
               "EditorCaption": ""

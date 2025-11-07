@@ -35,34 +35,59 @@ class Program
 
         #region Task 2
 
-        Console.OutputEncoding = System.Text.Encoding.UTF8;
+        //Altdaki setri baxdim
+        //Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-        CarService car = new CarService();
+        //CarService car = new CarService();
 
-        Console.WriteLine("Avtomobil yoxlanma sistemi:");
-        
-        Console.WriteLine("Check engine (y/n):");
-        string engine = Console.ReadLine();
+        //Console.WriteLine("Avtomobil yoxlanma sistemi:");
 
-        Console.WriteLine("Check Lights (y/n):");
-        string light = Console.ReadLine();
+        //Console.WriteLine("Check engine (y/n):");
+        //string engine = Console.ReadLine();
 
-        Console.WriteLine("Check Brakes (y/n)");
-        string brake = Console.ReadLine();
+        //Console.WriteLine("Check Lights (y/n):");
+        //string light = Console.ReadLine();
 
-        Console.WriteLine("Check oil (y/n):");
-        string oil = Console.ReadLine();
+        //Console.WriteLine("Check Brakes (y/n)");
+        //string brake = Console.ReadLine();
+
+        //Console.WriteLine("Check oil (y/n):");
+        //string oil = Console.ReadLine();
 
 
 
-        if(oil.ToLower() == "y") car.ServiceChain += car.CheckEngine;
-        if(engine.ToLower() =="y")car.ServiceChain += car.CheckLights;
-        if(light.ToLower() == "y")car.ServiceChain += car.CheckBrakes;
-        if(brake.ToLower() == "y")car.ServiceChain += car.CheckOil;
+        //if(oil.ToLower() == "y") car.ServiceChain += car.CheckEngine;
+        //if(engine.ToLower() =="y")car.ServiceChain += car.CheckLights;
+        //if(light.ToLower() == "y")car.ServiceChain += car.CheckBrakes;
+        //if(brake.ToLower() == "y")car.ServiceChain += car.CheckOil;
 
-        car.PerformServive();
+        //car.PerformServive();
 
 
         #endregion
+
+        #region Task 3
+
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
+
+        Reports reports = new Reports();
+
+        var salesReport = new ReportGenerator<List<int>>();
+        salesReport.ReportEvent += reports.GenerateSalesReports;
+        salesReport.GenerateReport(new List<int> { 100, 200, 300 });
+
+        var employeeReport = new ReportGenerator<List<string>>();
+        employeeReport.ReportEvent += reports.GenerateEmployeeReport;
+        employeeReport.GenerateReport(new List<string> { "Rashad","Ali", "Elcan" });
+
+
+        var errorReport = new ReportGenerator<List<string>>();
+        errorReport.ReportEvent += reports.GenerateErrorReport;
+        employeeReport.GenerateReport(new List<string> { "Server failed", "Login failed" });
+
+
+        #endregion
+
+
     }
 }   
