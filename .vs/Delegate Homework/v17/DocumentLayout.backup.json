@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|solutionrelative:delegate homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|c:\\users\\mursa\\source\\repos\\delegate homework\\delegate homework\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|solutionrelative:delegate homework\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|c:\\users\\mursa\\source\\repos\\delegate homework\\delegate homework\\notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|solutionrelative:delegate homework\\notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|c:\\users\\mursa\\source\\repos\\delegate homework\\delegate homework\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|solutionrelative:delegate homework\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|c:\\users\\mursa\\source\\repos\\delegate homework\\delegate homework\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|solutionrelative:delegate homework\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|c:\\users\\mursa\\source\\repos\\delegate homework\\delegate homework\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|solutionrelative:delegate homework\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD3CBC0A-1A2A-4C59-849B-05C17DB353A8}|Delegate Homework\\Delegate Homework.csproj|c:\\users\\mursa\\source\\repos\\delegate homework\\delegate homework\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\CarService.cs",
+              "RelativeDocumentMoniker": "Delegate Homework\\CarService.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\CarService.cs",
+              "RelativeToolTip": "Delegate Homework\\CarService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:41:50.628Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SMSService.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\SMSService.cs",
               "RelativeDocumentMoniker": "Delegate Homework\\SMSService.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Delegate Homework\\SMSService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T20:54:03.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T20:54:03.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\EmailService.cs",
               "RelativeDocumentMoniker": "Delegate Homework\\EmailService.cs",
@@ -68,18 +84,17 @@
               "RelativeToolTip": "Delegate Homework\\EmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T20:53:29.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T20:53:29.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Notifier.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\Notifier.cs",
               "RelativeDocumentMoniker": "Delegate Homework\\Notifier.cs",
               "ToolTip": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\Notifier.cs",
               "RelativeToolTip": "Delegate Homework\\Notifier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T20:18:49.603Z",
               "EditorCaption": ""
@@ -90,9 +105,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\Program.cs",
               "RelativeDocumentMoniker": "Delegate Homework\\Program.cs",
-              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\Program.cs*",
-              "RelativeToolTip": "Delegate Homework\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwB4AAAA2AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Delegate Homework\\Delegate Homework\\Program.cs",
+              "RelativeToolTip": "Delegate Homework\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T20:02:33.14Z",
               "EditorCaption": ""

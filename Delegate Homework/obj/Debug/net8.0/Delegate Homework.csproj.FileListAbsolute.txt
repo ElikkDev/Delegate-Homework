@@ -12,3 +12,4 @@ C:\Users\mursa\source\repos\Delegate Homework\Delegate Homework\obj\Debug\net8.0
 C:\Users\mursa\source\repos\Delegate Homework\Delegate Homework\obj\Debug\net8.0\Delegate Homework.pdb
 C:\Users\mursa\source\repos\Delegate Homework\Delegate Homework\obj\Debug\net8.0\Delegate Homework.genruntimeconfig.cache
 C:\Users\mursa\source\repos\Delegate Homework\Delegate Homework\obj\Debug\net8.0\ref\Delegate Homework.dll
+C:\Users\mursa\source\repos\Delegate Homework\Delegate Homework\obj\Debug\net8.0\Delegate Homework.sourcelink.json
